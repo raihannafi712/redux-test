@@ -1,0 +1,15 @@
+.main{
+    padding: 100px 0;
+}
+.btn1{
+    padding: 20px 60px ;
+    background-color: gold;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.change{
+    padding: 50px 0;
+}
